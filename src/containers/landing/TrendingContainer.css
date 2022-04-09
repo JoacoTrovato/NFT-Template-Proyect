@@ -1,0 +1,16 @@
+.TitleContainer {
+  display: flex;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 350px;
+}
+
+.Container {
+  display: flex;
+  text-align: center;
+}
+
+.about py-5 {
+  text-align: center;
+}
